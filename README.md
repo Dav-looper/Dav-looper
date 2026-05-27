@@ -11,12 +11,12 @@ I'm a software developer with a strong passion for backend development.
 💻 Current Focus: Developing backend solutions, mastering Object-Oriented Programming (OOP) in Java, and learning REST API development.
 
 <h2>Tech Stack</h2>
-   <a href="https://skillicons.dev">
+   <a>
     <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,typescript,javascript,html,css&theme=light" />
   </a>
   
   <h2>Tools</h2>
-     <a href="https://skillicons.dev">
+     <a>
     <img src="https://skillicons.dev/icons?i=git,github,docker&theme=light" />
   </a>
 
@@ -37,6 +37,8 @@ I'm a software developer with a strong passion for backend development.
 
 <!--
 **Dav-looper/Dav-looper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://skillicons.dev">
 
 Here are some ideas to get you started:
 
