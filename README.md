@@ -26,6 +26,7 @@ I'm a software developer with a strong passion for backend development.
   <a href="https://github.com/Dav-looper">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dav-looper&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
+  <br>
   <a href="https://github.com/Dav-looper">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dav-looper&layout=compact&langs_count=8&theme=algolia"/>
   </a>
