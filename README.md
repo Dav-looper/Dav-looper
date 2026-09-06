@@ -1,54 +1,63 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
-<h1>
-  Hi There I'm Jonathan Torres 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<h1 align="center">Hi, I'm Jonathan Torres 👋</h1>
+
+<p align="center">
+  <strong>Junior Backend Developer | Java & Spring Boot</strong>
+</p>
+
+<p align="center">
+  Backend developer focused on building maintainable APIs and backend systems.
+  Currently deepening my expertise in Java, Spring Boot, software architecture,
+  SQL and automated testing through hands-on projects.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎯 Focused on **Backend Development with Java and Spring Boot**
+- 🏗️ Interested in **software architecture, domain modeling and maintainable code**
+- 🔧 Currently building an **Order Management API** with Java, Spring Boot, PostgreSQL and Docker
+- 💼 Former Software Development Apprentice at **Banco Davivienda**, where I worked on a backend project using TypeScript and NestJS
+- 📚 Continuously improving my knowledge of **REST APIs, testing, databases and backend architecture**
+
+## 🛠️ Tech Stack
+
+### Backend
 <p>
-I'm a software developer with a strong passion for backend development. 
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate" />
 </p>
 
-🔭 I’m currently working at Davivienda as a software developer intern.\
-💻 Current Focus: Developing backend solutions, mastering Object-Oriented Programming (OOP) in Java, and learning REST API development.
-
-<h2>Tech Stack</h2>
-   <a>
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,typescript,javascript,html,css&theme=light" />
-  </a>
-  
-  <h2>Tools</h2>
-     <a>
-    <img src="https://skillicons.dev/icons?i=git,github,docker&theme=light" />
-  </a>
-
-<h2>GitHub Analytics</h2>
-
-<p align="center">
-  <a href="https://github.com/Dav-looper">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dav-looper&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <br>
-  <a href="https://github.com/Dav-looper">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dav-looper&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+### Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,idea,postman" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dav-looper&theme=dark&hide_border=true"/>
+### Additional Experience
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,javascript" />
 </p>
 
-<!--
-**Dav-looper/Dav-looper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Project
 
-<a href="https://skillicons.dev">
+### Order Management API
 
-Here are some ideas to get you started:
+A backend system currently under active development using **Java and Spring Boot**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The project focuses on:
+
+- Hexagonal Architecture
+- Vertical Slicing
+- Domain modeling
+- SOLID principles
+- Clean Code
+- Spring Data JPA
+- PostgreSQL
+- Automated testing
+- Docker
+
+> Currently in active development, with new use cases and vertical slices being implemented continuously.
+
+## 📫 Contact
+
+- LinkedIn: [Jonathan Torres](https://www.linkedin.com/in/jonathan-torres-lpz/)
+- GitHub: [Dav-looper](https://github.com/Dav-looper)
