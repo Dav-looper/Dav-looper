@@ -75,4 +75,3 @@ Also participated in a pilot project involving AI-assisted development tools and
 ## 📫 Contact
 
 - LinkedIn: [Jonathan Torres](https://www.linkedin.com/in/jonathan-torres-lpz/)
-- GitHub: [Dav-looper](https://github.com/Dav-looper)
